@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+credit_risk.db
+artifacts/models/
+.pytest_cache/
+.DS_Store
